@@ -22,7 +22,7 @@ namespace AzureAPI.Controllers
             };
         }
 
-        [HttpGet("all")]
+        [HttpGet("All")]
         public IActionResult GetAll()
         {
             return Ok(_user);
