@@ -20,6 +20,7 @@ namespace AzureAPI.Controllers
                 new User { Id = 2 ,Name = "Carlo"},
                 new User { Id = 3 ,Name = "Paula"},
                 new User { Id = 4 ,Name = "Marina"},
+                new User { Id = 5 ,Name = "Mayara"},
             };
         }
 
